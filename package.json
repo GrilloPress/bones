@@ -10,14 +10,14 @@
     "build": "brunch build --production"
   },
   "dependencies": {
-    "nunjucks-brunch": "^0.3.3"
+    "auto-reload-brunch": "^2.7.1"
   },
   "devDependencies": {
-    "auto-reload-brunch": "^2.7.1",
     "babel-brunch": "~6.0",
     "babel-preset-latest": "^6",
     "brunch": "^2",
     "clean-css-brunch": "^2",
+    "nunjucks-brunch": "github:brunch/nunjucks-brunch",
     "sass-brunch": "^2.10.4",
     "uglify-js-brunch": "^2"
   }
